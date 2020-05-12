@@ -14,5 +14,17 @@
      "assets/minecraft/textures/block/podzol_side.png"],
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/warped_nylium_side.png",
      "assets/minecraft/textures/block/warped_nylium_side.png"]
+  ],
+  "uniqueores": [
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/uniqueores/coal_ore.png",
+    "assets/minecraft/textures/block/coal_ore.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/uniqueores/diamond_ore.png",
+    "assets/minecraft/textures/block/diamond_ore.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/uniqueores/gold_ore.png",
+    "assets/minecraft/textures/block/gold_ore.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/uniqueores/iron_ore.png",
+    "assets/minecraft/textures/block/iron_ore.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/uniqueores/redstone_ore.png",
+    "assets/minecraft/textures/block/redstone_ore.png"]
   ]
 }
