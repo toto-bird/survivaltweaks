@@ -3,7 +3,16 @@
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/crimson_nylium_side.png",
      "assets/minecraft/textures/block/crimson_nylium_side.png"],
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/grass_block_side_overlay.png",
-     "assets/minecraft/textures/block/grass_block_side_overlay.png"
-    ]
+     "assets/minecraft/textures/block/grass_block_side_overlay.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/grass_block_snow.png",
+     "assets/minecraft/textures/block/grass_block_snow.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/grass_path_side.png",
+     "assets/minecraft/textures/block/grass_path_side.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/mycelium_side.png",
+     "assets/minecraft/textures/block/mycelium_side.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/podzol_side.png",
+     "assets/minecraft/textures/block/podzol_side.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/lowergrasssides/warped_nylium_side.png",
+     "assets/minecraft/textures/block/warped_nylium_side.png"]
   ]
 }
