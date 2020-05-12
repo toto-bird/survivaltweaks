@@ -124,5 +124,19 @@
     "assets/minecraft/textures/block/leather_leggings_overlay.png"],
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_leggings.png",
     "assets/minecraft/textures/block/leather_leggings.png"]
+  ],
+  "bannerpattericons": [
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/creeper_banner_pattern.png",
+    "assets/minecraft/textures/item/creeper_banner_pattern"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/flower_banner_pattern.png",
+    "assets/minecraft/textures/item/flower_banner_pattern"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/globe_banner_pattern.png",
+    "assets/minecraft/textures/item/globe_banner_pattern"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/mojang_banner_pattern.png",
+    "assets/minecraft/textures/item/mojang_banner_pattern"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/piglin_banner_pattern.png",
+    "assets/minecraft/textures/item/piglin_banner_pattern"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/bannerpatternicons/skull_banner_pattern.png",
+    "assets/minecraft/textures/item/skull_banner_pattern"]
   ]
 }
