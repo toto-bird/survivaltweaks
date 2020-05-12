@@ -96,5 +96,15 @@
     "assets/minecraft/textures/block/yellow_stained_glass.png"],
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanglass/yellow_stained_glass_pane_top.png",
     "assets/minecraft/textures/block/yellow_stained_glass_pane_top.png"]
+  ],
+  "blacknetherbricks": [
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/blacknetherbricks/chiseled_nether_bricks.png",
+    "assets/minecraft/textures/block/chiseled_nether_bricks.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/blacknetherbricks/cracked_nether_bricks.png",
+    "assets/minecraft/textures/block/cracked_nether_bricks.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/blacknetherbricks/nether_bricks.png",
+    "assets/minecraft/textures/block/nether_bricks.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/blacknetherbricks/nether_brick.png",
+    "assets/minecraft/textures/item/nether_brick.png"]
   ]
 }
