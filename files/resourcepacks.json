@@ -106,5 +106,23 @@
     "assets/minecraft/textures/block/nether_bricks.png"],
     ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/blacknetherbricks/nether_brick.png",
     "assets/minecraft/textures/item/nether_brick.png"]
+  ],
+  "cleanleatherarmour": [
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_boots_overlay.png",
+    "assets/minecraft/textures/block/leather_boots_overlay.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_boots.png",
+    "assets/minecraft/textures/block/leather_boots.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_chestplate_overlay.png",
+    "assets/minecraft/textures/block/leather_chestplate_overlay.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_chestplaye.png",
+    "assets/minecraft/textures/block/leather_chestplate.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_helmet_overlay.png",
+    "assets/minecraft/textures/block/leather_helmet_overlay.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_helmet.png",
+    "assets/minecraft/textures/block/leather_helmet.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_leggings_overlay.png",
+    "assets/minecraft/textures/block/leather_leggings_overlay.png"],
+    ["https://toto-bird.github.io/survivaltweaks/files/resourcepacks/cleanleatherarmour/leather_leggings.png",
+    "assets/minecraft/textures/block/leather_leggings.png"],
   ]
 }
